@@ -16,7 +16,9 @@ function Bio({ author, language = 'ko' }) {
             <br />
             <ReactRotatingText items={bio.description} />
             <br />
-            {bio.role} <strong>{name}</strong>입니다.
+            <div>
+              {bio.role} <strong>{name}</strong>입니다.
+            </div>
             <br />
           </p>
           <div className="social-links">
