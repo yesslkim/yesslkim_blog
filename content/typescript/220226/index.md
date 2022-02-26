@@ -1,7 +1,7 @@
 ---
 emoji: 👩‍💻
 title: 타입스크립트와 EventTarget💗
-date: '2022-02-26 15:12:00'
+date: '2022-02-26 16:30:00'
 author: 예슬
 tags: 타입스크립트
 categories: TYPESCRIPT

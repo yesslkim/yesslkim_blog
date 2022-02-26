@@ -78,3 +78,7 @@ categories: JAVASCRIPT
 
 출처 1: [MDN - Determining the dimensions of elements](https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model/Determining_the_dimensions_of_elements)
 출처 2: [MDN - Element.getBoundingClientRect()](https://developer.mozilla.org/en-US/docs/Web/API/Element/getBoundingClientRect)
+
+```toc
+
+```
