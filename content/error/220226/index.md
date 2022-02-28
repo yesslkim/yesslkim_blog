@@ -3,8 +3,8 @@ emoji: 👻
 title: Variable 'age' is used before being assigned - Typescript
 date: '2022-02-26 18:58:00'
 author: 예슬
-tags: 타입스크립트
-categories: TYPESCRIPT
+tags: 타입스크립트, 에러
+categories: ERROR TYPESCRIPT
 ---
 
 ## `let age;` 인데 할당되기 전에 사용되었다고?
@@ -18,7 +18,8 @@ if (isActive) {
   age = 100;
 }
 
-console.log(`내 나이는 ${age}살이야`); // 2️⃣ 🤯 ERROR : Variable 'age' is used before being assigned
+console.log(`내 나이는 ${age}살이야`);
+// 2️⃣ 🤯 ERROR : Variable 'age' is used before being assigned
 ```
 
 분명 let age로 선언되었는데 왜 저런 에러가 뜰까?
